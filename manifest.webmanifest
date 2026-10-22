@@ -1,0 +1,10 @@
+{
+  "name": "RA MOVE Practice Coach",
+  "short_name": "MOVE Coach",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f2937",
+  "description": "Interactive Meet, Organize, Value, and Endgame practice coach."
+}
